@@ -1,0 +1,84 @@
+[
+      {
+        "Id": 1,
+        "sale": "",
+        "itemType": "Fancy Product",
+        "starCount": 0,
+        "price": {
+          "oldPrice": "",
+          "newPrice": "Rs 40000.00 - Rs 80000.00"
+        },
+        "buttonName": "View options"
+      },
+      {
+        "sale": "sale",
+        "itemType": "Special Item",
+        "starCount": 5,
+        "price": {
+          "oldPrice": "Rs 20000.00",
+          "newPrice": "Rs 15000.00"
+        },
+        "buttonName": "Add to cart"
+      },
+      {
+        "sale": "sale",
+        "itemType": "Sale Item",
+        "starCount": 0,
+        "price": {
+          "oldPrice": "Rs50000.00",
+          "newPrice": "Rs35999.00"
+        },
+        "buttonName": "Add to cart"
+      },
+      {
+        "sale": "",
+        "itemType": "Popular Item",
+        "starCount": 5,
+        "price": {
+          "oldPrice": "15999",
+          "newPrice": "Rs 9999.00"
+        },
+        "buttonName": "Add to cart"
+      },
+      {
+        "sale": "sale",
+        "itemType": "Sale Item",
+        "starCount": 0,
+        "price": {
+          "oldPrice": "Rs 7999.00",
+          "newPrice": "Rs 4699.00"
+        },
+        "buttonName": "Add to cart"
+      },
+      {
+        "sale": "",
+        "itemType": "Fancy Product",
+        "starCount": 0,
+        "price": {
+          "oldPrice": "",
+          "newPrice": "Rs 25999.00 - Rs 49999.00"
+        },
+        "buttonName": "View options"
+      },
+      {
+        "sale": "sale",
+        "itemType": "Special Item",
+        "starCount": 5,
+        "price": {
+          "oldPrice": "Rs 15779.00",
+          "newPrice": "Rs 25499.00"
+        },
+        "buttonName": "Add to cart"
+      },
+      {
+        "sale": "",
+        "itemType": "Popular Item",
+        "starCount": 5,
+        "price": {
+          "oldPrice": "Rs 19999",
+          "newPrice": "Rs 15499.00"
+        },
+        "buttonName": "Add to cart"
+      }
+    ]
+    
